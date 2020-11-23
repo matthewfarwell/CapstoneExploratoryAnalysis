@@ -1,0 +1,11 @@
+*.Rproj
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/
+gen/
+rsconnect/
+Milestone_files
+*.html
+*.md
